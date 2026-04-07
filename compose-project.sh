@@ -75,11 +75,13 @@ EOF
 
 show_info() {
   cat <<'EOF'
-Compose Project Manager
-Repository: github.com/AhmadShamli/compose-project
-License: MIT with attribution preservation; keep the original license notice in copies and substantial portions.
+=============================
+ Compose Project Manager
+=============================
+Repository : github.com/AhmadShamli/compose-project
+License    : MIT
 
-This script uses the current working directory as the compose project root.
+Uses the current working directory as the compose project root.
 EOF
 }
 
